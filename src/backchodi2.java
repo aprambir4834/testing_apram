@@ -7,10 +7,8 @@
  *
  * @author apram
  */
-public class bakchodi {
+public class backchodi2 {
     public static void main(String[] args) {
-        System.out.println("Heloo");
-        System.out.println("hie");
+        System.out.println("hahaha");
     }
-    
 }
